@@ -1,3 +1,3 @@
 
-let nombre = "Jorge"
+let nombre = "Pedro"
 console.log(nombre) 
